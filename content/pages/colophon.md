@@ -11,8 +11,8 @@ sections:
       CSS](https://tailwindcss.com/) and other front end magic.
 
 
-      I used this template as a basis to work from. Mostly layout changes and
-      style updates.
+      I used this template as a basis to work from as I can't design things!
+      There are some things I've built, the keys ones being:
 
 
       *   Light/Dark switcher code
