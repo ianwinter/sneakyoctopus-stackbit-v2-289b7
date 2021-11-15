@@ -48,13 +48,7 @@ sections:
       MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
       on
       [Unsplash](https://unsplash.com/collections/V6eONltz8fU/sneaky-octopus?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
-    actions:
-      - type: Button
-        label: Learn more
-        url: /
-        style: link
-        showIcon: 'true'
-        icon: arrowRight
+    actions: []
     styles:
       self:
         height: auto
