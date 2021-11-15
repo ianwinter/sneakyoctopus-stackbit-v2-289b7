@@ -85,14 +85,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Instagram",
-                "url": "/",
-                "showIcon": true,
-                "icon": "instagram",
-                "label": "Instagram"
-            },
-            {
-                "type": "Social",
                 "altText": "Facebook",
                 "url": "/",
                 "showIcon": true,
