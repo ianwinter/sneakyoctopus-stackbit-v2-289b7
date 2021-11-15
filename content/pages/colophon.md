@@ -48,6 +48,9 @@ sections:
       MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
       on
       [Unsplash](https://unsplash.com/collections/V6eONltz8fU/sneaky-octopus?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+
+      *   Icon by Pavel N from [The Noun
+      Project](https://thenounproject.com/term/octopus/29926/)
     actions: []
     styles:
       self:
