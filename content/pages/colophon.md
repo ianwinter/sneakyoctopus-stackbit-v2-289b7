@@ -2,7 +2,7 @@
 title: Colophon
 sections:
   - type: HeroSection
-    title: About Us
+    title: Colophon
     subtitle: Who We Are
     text: >-
       Contrary to popular belief, Lorem Ipsum is not simply random text. It has
