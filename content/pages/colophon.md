@@ -11,7 +11,7 @@ sections:
       College in Virginia, looked up one of the more obscure Latin words.
     feature:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/so_logo_200x200.svg
       altText: About us
     styles:
       self:
