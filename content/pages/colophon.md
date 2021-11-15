@@ -42,7 +42,7 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     colors: colors-h
-    title: Careers
+    title: Imagery
     text: >-
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
