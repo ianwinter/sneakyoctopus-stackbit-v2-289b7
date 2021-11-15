@@ -129,7 +129,8 @@
                     "opacity": 100
                 }
             },
-            "type": "ImageBlock"
+            "type": "ImageBlock",
+            "url": "/images/so_logo_200x200.svg"
         }
     }
 }
