@@ -42,7 +42,7 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     colors: colors-h
-    title: Imagery
+    title: Imagery & Typography
     text: >
       *   Colophon page, photo by [Danielle
       MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
