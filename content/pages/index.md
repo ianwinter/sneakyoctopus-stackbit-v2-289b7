@@ -58,9 +58,10 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    quote: >-
-      # It's great to see someone taking action while still maintaining a
-      sustainable fish supply.
+    quote: >
+      # Talent without discipline is like an octopus on roller skates. There's
+      plenty of movement, but you never know if it's going to be forward,
+      backwards, or sideways.
     name: 'H. Jackson Brown, Jr.'
     backgroundImage:
       url: ''
