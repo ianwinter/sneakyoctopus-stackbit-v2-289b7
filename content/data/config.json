@@ -91,7 +91,7 @@
                 "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "link",
+                "style": "secondary",
                 "elementId": "",
                 "type": "Link"
             }
