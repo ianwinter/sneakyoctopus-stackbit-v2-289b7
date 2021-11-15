@@ -56,7 +56,7 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-  - elementId: ''
+  - elementId: quote
     colors: colors-a
     quote: >
       # Talent without discipline is like an octopus on roller skates. There's
