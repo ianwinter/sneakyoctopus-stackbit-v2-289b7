@@ -15,7 +15,7 @@ sections:
       There are some things I've built, the keys ones being:
 
 
-      *   Light/Dark switcher code
+      *   Light/Dark [switcher](https://gist.com)
     feature:
       type: ImageBlock
       url: /images/danielle-macinnes-IuLgi9PWETU-unsplash.jpg
