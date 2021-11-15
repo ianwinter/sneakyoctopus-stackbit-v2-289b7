@@ -8,7 +8,7 @@
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/agency-logo.svg",
+            "url": "/images/so_logo_text_300x60.svg",
             "altText": "Agency"
         },
         "primaryLinks": [],
