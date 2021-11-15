@@ -43,10 +43,11 @@ sections:
   - type: CtaSection
     colors: colors-h
     title: Imagery
-    text: >-
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable.
+    text: >
+      Photo by [Danielle
+      MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+      on
+      [Unsplash](https://unsplash.com/collections/V6eONltz8fU/sneaky-octopus?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
     actions:
       - type: Button
         label: Learn more
