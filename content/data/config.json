@@ -86,7 +86,7 @@
         "legalLinks": [
             {
                 "label": "Colophon",
-                "altText": "Learn more",
+                "altText": "Colophon",
                 "url": "/",
                 "showIcon": true,
                 "icon": "arrowRight",
