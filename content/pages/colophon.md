@@ -68,6 +68,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
+        margin:
+          - mt-4
       actions:
         justifyContent: flex-start
 layout: PageLayout
