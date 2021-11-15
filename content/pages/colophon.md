@@ -44,7 +44,7 @@ sections:
     colors: colors-h
     title: Imagery
     text: >
-      Photo by [Danielle
+      *   Colophon page, photo by [Danielle
       MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
       on
       [Unsplash](https://unsplash.com/collections/V6eONltz8fU/sneaky-octopus?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
