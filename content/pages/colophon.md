@@ -4,11 +4,18 @@ sections:
   - type: HeroSection
     title: Colophon
     subtitle: What is this thing?
-    text: >-
-      Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-      roots in a piece of classical Latin literature from 45 BC, making it over
-      2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-      College in Virginia, looked up one of the more obscure Latin words.
+    text: >
+      This site is based on a template from
+      [Stackbit](https://github.com/stackbit-themes/agency-nextjs-theme) v2.
+      It's powered by [NextJS](https://nextjs.org/) and [Tailwind
+      CSS](https://tailwindcss.com/) and other front end magic.
+
+
+      I used this template as a basis to work from. Mostly layout changes and
+      style updates.
+
+
+      *   Light/Dark switcher code
     feature:
       type: ImageBlock
       url: /images/danielle-macinnes-IuLgi9PWETU-unsplash.jpg
