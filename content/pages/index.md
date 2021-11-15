@@ -59,7 +59,7 @@ sections:
   - elementId: quote
     colors: colors-a
     quote: >
-      # Talent without discipline is like an octopus on roller skates. There's
+      > Talent without discipline is like an octopus on roller skates. There's
       plenty of movement, but you never know if it's going to be forward,
       backwards, or sideways.
     name: 'H. Jackson Brown, Jr.'
