@@ -51,6 +51,8 @@ sections:
 
       *   Icon by Pavel N from [The Noun
       Project](https://thenounproject.com/term/octopus/29926/)
+
+      *   Heading font, [Fraunces](https://github.com/undercasetype/fraunces)
     actions: []
     styles:
       self:
