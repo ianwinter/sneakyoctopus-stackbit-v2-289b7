@@ -143,7 +143,9 @@ sections:
   - elementId: contact-form
     colors: colors-a
     title: Contact me
-    text: We look forward to hearing from you.
+    text: >
+      If you've got a project or want to talk about something, I look forward to
+      hearing from you.
     form:
       type: FormBlock
       elementId: contact-form
