@@ -170,7 +170,7 @@ sections:
           options:
             - Hosting
             - Wordpress
-            - lorem-ipsum
+            - Technology advice
           isRequired: false
           width: full
           type: SelectFormControl
