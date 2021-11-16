@@ -164,12 +164,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: 1/2
-        - name: message
-          label: Message
-          placeholder: Tell me about your project or ask a question.
-          isRequired: true
-          width: full
-          type: TextareaFormControl
         - name: city
           label: City
           defaultValue: Please choose...
@@ -179,6 +173,12 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
+        - name: message
+          label: Message
+          placeholder: Tell me about your project or ask a question.
+          isRequired: true
+          width: full
+          type: TextareaFormControl
         - name: consent
           label: Data will be sent and held in order to process it (GDPR).
           isRequired: true
