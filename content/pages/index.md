@@ -165,7 +165,7 @@ sections:
           isRequired: true
           width: 1/2
         - name: looking-for
-          label: City
+          label: What services are you looking for?
           defaultValue: Please choose...
           options:
             - New York
