@@ -6,11 +6,10 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Helping you untangle the tentacles of technology.
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Do you want to talk about SaaS? How about data, pipelines or ML? Maybe you
+      want a site hosted or a basic template design site. Whatever it is, let's
+      talk!
     actions:
       - label: Let's talk
         altText: Let's talk
