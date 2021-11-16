@@ -202,6 +202,7 @@ sections:
         padding:
           - pt-12
           - pb-12
+          - pl-8
         alignItems: center
         justifyContent: center
         flexDirection: row
