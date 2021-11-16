@@ -169,7 +169,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Hosting
-            - San Francisco
+            - Wordpress
           isRequired: false
           width: full
           type: SelectFormControl
