@@ -56,7 +56,7 @@ sections:
     variant: variant-a
     colors: colors-a
     title: The Team
-    subtitle: An optional subtitle of the section
+    subtitle: 'There''s no "I" in team, but, there is me!'
     people:
       - content/data/team/gordon-norman.json
       - content/data/team/parsley-montana.json
