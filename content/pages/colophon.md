@@ -18,7 +18,7 @@ sections:
       *   Light/Dark [switcher](https://gist.com)
     feature:
       type: ImageBlock
-      url: /images/danielle-macinnes-IuLgi9PWETU-unsplash.jpg
+      url: /images/markus-spiske-8OyKWQgBsKQ-unsplash.jpg
       altText: About us
     styles:
       self:
