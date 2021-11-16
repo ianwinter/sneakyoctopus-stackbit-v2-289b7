@@ -164,7 +164,7 @@ sections:
           placeholder: Your email
           isRequired: true
           width: 1/2
-        - name: city
+        - name: looking-for
           label: City
           defaultValue: Please choose...
           options:
