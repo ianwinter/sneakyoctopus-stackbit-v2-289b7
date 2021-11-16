@@ -171,7 +171,7 @@ sections:
           width: full
           type: TextareaFormControl
         - name: updates
-          label: 'You agree to '
+          label: Data will be sent and held in order to process it (
           isRequired: false
           width: full
           type: CheckboxFormControl
