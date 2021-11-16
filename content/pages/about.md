@@ -59,7 +59,6 @@ sections:
     subtitle: 'There''s no "I" in team, but, there is me!'
     people:
       - content/data/team/gordon-norman.json
-      - content/data/team/desmond-eagle.json
     styles:
       self:
         height: auto
