@@ -18,7 +18,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: link
+        style: primary
         elementId: ''
         type: Link
     styles:
