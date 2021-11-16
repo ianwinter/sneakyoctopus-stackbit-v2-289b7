@@ -7,9 +7,9 @@ sections:
     colors: colors-a
     title: Helping you untangle the tentacles of technology.
     text: >
-      Do you want to talk about SaaS? How about data, pipelines or ML? Maybe you
-      want a site hosted or a basic template design site. Whatever it is, let's
-      talk!
+      Do you want to talk about SaaS, databases, pipelines, ML or web
+      infrastructure? Maybe you want a site hosted or a basic template design
+      site. Whatever it is I'll try and help.
     actions:
       - label: Let's talk
         altText: Let's talk
