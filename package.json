@@ -24,7 +24,7 @@
         "sourcebit-source-filesystem": "^0.1.6",
         "sourcebit-target-next": "^0.6.3",
         "tailwindcss": "^2.2.4",
-        "@fontsource/f"
+        "@fontsource/fraunces"
     },
     "devDependencies": {
         "@next/bundle-analyzer": "^11.1.2",
