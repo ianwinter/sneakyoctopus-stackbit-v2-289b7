@@ -176,7 +176,7 @@ sections:
           width: full
         - name: message
           label: Message
-          placeholder: Please describe
+          placeholder: Tell me about your project or ask a question.
           isRequired: false
           width: full
           type: TextareaFormControl
