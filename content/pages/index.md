@@ -170,11 +170,6 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: consent
-          label: Data will be sent and held in order to process it (GDPR).
-          isRequired: true
-          width: full
-          type: CheckboxFormControl
         - name: city
           label: City
           defaultValue: Please choose...
@@ -184,6 +179,11 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
+        - name: consent
+          label: Data will be sent and held in order to process it (GDPR).
+          isRequired: true
+          width: full
+          type: CheckboxFormControl
       submitLabel: Send Message
     feature:
       type: ImageBlock
