@@ -177,7 +177,7 @@ sections:
         - name: message
           label: Message
           placeholder: Tell me about your project or ask a question.
-          isRequired: false
+          isRequired: true
           width: full
           type: TextareaFormControl
       submitLabel: Send Message
