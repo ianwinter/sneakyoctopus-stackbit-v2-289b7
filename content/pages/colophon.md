@@ -55,8 +55,12 @@ sections:
     colors: colors-h
     title: Imagery & Typography
     text: >
-      *   Colophon page, photo by [Danielle
-      MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+      *   Home page, photo by [Danielle
+      MacInnes](https://unsplash.com/@dsmacinnes?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) 
+      [Unsplash](https://unsplash.com/collections/V6eONltz8fU/sneaky-octopus?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+
+      *   Colophon page, photo by [Markus
+      Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
       on
       [Unsplash](https://unsplash.com/collections/V6eONltz8fU/sneaky-octopus?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 
