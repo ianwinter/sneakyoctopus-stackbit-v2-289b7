@@ -4,10 +4,14 @@ sections:
   - type: HeroSection
     title: Our story
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Sagittis enim est, et semper lectus hendrerit ut.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
+      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
+      magna elementum lorem, ut bibendum tellus turpis quis risus. Sagittis enim
+      est, et semper lectus hendrerit ut.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan.
+      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
+      turpis et nisi fermentum accumsan.
     feature:
       type: ImageBlock
       url: /images/about.jpg
@@ -16,8 +20,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-8
         alignItems: center
         justifyContent: center
         flexDirection: col
@@ -25,14 +37,18 @@ sections:
         fontWeight: '700'
         fontStyle: normal
         textAlign: left
-        margin: ['mt-0', 'mb-8']
+        margin:
+          - mt-0
+          - mb-8
       subtitle:
         fontWeight: '400'
         fontStyle: normal
         textAlign: left
       text:
         textAlign: left
-        margin: ['mt-0', 'mb-8']
+        margin:
+          - mt-0
+          - mb-8
       actions:
         justifyContent: flex-start
   - type: FeaturedPeopleSection
@@ -50,19 +66,31 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
         fontStyle: normal
         textAlign: center
-        margin: ['mt-0', 'mb-4']
+        margin:
+          - mt-0
+          - mb-4
       subtitle:
         fontWeight: '400'
         fontStyle: normal
         textAlign: center
-        margin: ['mt-0', 'mb-12']
+        margin:
+          - mt-0
+          - mb-12
       actions:
         justifyContent: center
   - type: HeroSection
@@ -88,8 +116,16 @@ sections:
       self:
         height: auto
         width: narrow
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -97,14 +133,18 @@ sections:
         fontWeight: '700'
         fontStyle: normal
         textAlign: left
-        margin: ['mt-0', 'mb-5']
+        margin:
+          - mt-0
+          - mb-5
       subtitle:
         fontWeight: '400'
         fontStyle: normal
         textAlign: left
       text:
         textAlign: left
-        margin: ['mt-0', 'mb-8']
+        margin:
+          - mt-0
+          - mb-8
       actions:
         justifyContent: flex-start
 layout: PageLayout
