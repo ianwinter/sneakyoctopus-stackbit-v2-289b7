@@ -84,7 +84,7 @@ sections:
           - pt-12
           - pb-12
           - pl-24
-          - pr-16
+          - pr-24
         alignItems: center
         justifyContent: center
       quote:
