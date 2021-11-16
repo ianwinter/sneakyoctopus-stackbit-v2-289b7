@@ -171,7 +171,7 @@ sections:
           width: full
           type: TextareaFormControl
         - name: updates
-          label: Sign me up to receive updates
+          label: 'You agree to '
           isRequired: false
           width: full
           type: CheckboxFormControl
