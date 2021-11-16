@@ -142,7 +142,7 @@ sections:
     subtitle: Explore case studies
   - elementId: contact-form
     colors: colors-a
-    title: Contact us
+    title: Contact me
     text: We look forward to hearing from you.
     form:
       type: FormBlock
