@@ -170,6 +170,11 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
+        - name: updates
+          label: Sign me up to receive updates
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
       submitLabel: Send Message
     feature:
       type: ImageBlock
