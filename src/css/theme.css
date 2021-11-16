@@ -18,5 +18,5 @@ body, h1, h2, h3 {
 
 blockquote {
     border: 0;
-    padding
+    padding-left: 0;
 }
