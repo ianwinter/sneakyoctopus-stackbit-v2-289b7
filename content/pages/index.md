@@ -170,7 +170,7 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updates
+        - name: consent
           label: Data will be sent and held in order to process it (GDPR).
           isRequired: true
           width: full
