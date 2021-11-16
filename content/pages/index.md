@@ -164,12 +164,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: 1/2
-        - type: TextFormControl
-          name: home-address
-          label: Home address
-          placeholder: Your home address
-          isRequired: true
-          width: full
         - name: message
           label: Message
           placeholder: Tell me about your project or ask a question.
