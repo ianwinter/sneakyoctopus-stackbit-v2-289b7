@@ -175,6 +175,15 @@ sections:
           isRequired: true
           width: full
           type: CheckboxFormControl
+        - name: city
+          label: City
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
+          type: SelectFormControl
       submitLabel: Send Message
     feature:
       type: ImageBlock
