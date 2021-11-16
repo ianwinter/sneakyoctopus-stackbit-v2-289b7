@@ -1,5 +1,5 @@
 import '../components/register-components';
-import '@fontsource/fraunces';
+import '@fontsource/fraunces/400.css';
 import '../css/main.css';
 import Head from 'next/head';
 
