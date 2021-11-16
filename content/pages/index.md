@@ -174,6 +174,12 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
+        - name: description
+          label: Description
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       submitLabel: Send Message
     feature:
       type: ImageBlock
