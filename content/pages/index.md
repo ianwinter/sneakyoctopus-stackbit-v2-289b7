@@ -199,6 +199,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
+        margin:
+          - mt-4
     action: /.netlify/functions/submission_created
     type: ContactSection
 ---
