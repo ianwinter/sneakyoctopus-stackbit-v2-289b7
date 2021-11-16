@@ -174,7 +174,7 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
-        - name: description
+        - name: message
           label: Description
           placeholder: Please describe
           isRequired: false
