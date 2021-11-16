@@ -177,7 +177,7 @@ sections:
           type: SelectFormControl
         - name: message
           label: Message
-          placeholder: Tell me about your project or ask a question.
+          placeholder: Your message
           isRequired: true
           width: full
           type: TextareaFormControl
