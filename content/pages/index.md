@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Let's talk
         altText: Let's talk
-        url: /
+        url: '#contact'
         showIcon: true
         icon: arrowRight
         iconPosition: right
