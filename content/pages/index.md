@@ -139,7 +139,7 @@ sections:
       actions:
         justifyContent: center
     subtitle: Explore case studies
-  - elementId: contact-form
+  - elementId: contact
     colors: colors-a
     title: Contact me
     text: >
