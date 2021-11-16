@@ -175,12 +175,6 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-        - name: home-address
-          label: Home address
-          placeholder: Your home address
-          isRequired: false
-          width: full
-          type: TextFormControl
       submitLabel: Send Message
     feature:
       type: ImageBlock
