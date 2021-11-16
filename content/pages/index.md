@@ -172,7 +172,7 @@ sections:
           type: TextareaFormControl
         - name: updates
           label: Data will be sent and held in order to process it (GDPR).
-          isRequired: false
+          isRequired: true
           width: full
           type: CheckboxFormControl
       submitLabel: Send Message
