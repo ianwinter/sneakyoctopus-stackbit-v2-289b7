@@ -13,7 +13,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - label: Let's talk
-        altText: Learn more
+        altText: Let's talk
         url: /
         showIcon: true
         icon: arrowRight
