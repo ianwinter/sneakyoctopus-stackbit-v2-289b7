@@ -182,7 +182,9 @@ sections:
           width: full
           type: TextareaFormControl
         - name: consent
-          label: Data will be sent and held in order to process it (GDPR).
+          label: >-
+            I understand that this form is storing my submitted information so I
+            can be contacted.
           isRequired: true
           width: full
           type: CheckboxFormControl
