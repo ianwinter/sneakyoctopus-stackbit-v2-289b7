@@ -168,7 +168,7 @@ sections:
           label: What services are you looking for?
           defaultValue: Please choose...
           options:
-            - New York
+            - Hosting
             - San Francisco
           isRequired: false
           width: full
