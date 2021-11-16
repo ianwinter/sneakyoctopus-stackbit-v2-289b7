@@ -178,7 +178,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/danielle-macinnes-IuLgi9PWETU-unsplash.jpg
       altText: Contact us
     styles:
       self:
