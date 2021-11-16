@@ -53,7 +53,7 @@ sections:
         justifyContent: flex-start
   - type: FeaturedPeopleSection
     elementId: ''
-    variant: variant-b
+    variant: variant-c
     colors: colors-a
     title: The Team
     subtitle: 'There''s no "I" in team, but, there is me!'
