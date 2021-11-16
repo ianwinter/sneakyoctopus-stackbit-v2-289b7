@@ -144,8 +144,8 @@ sections:
     colors: colors-a
     title: Contact me
     text: >
-      If you've got a project or want to talk about something, I look forward to
-      hearing from you.
+      If you've got a project or want to talk about something please get in
+      touch. I look forward to hearing from you.
     form:
       type: FormBlock
       elementId: contact-form
