@@ -144,8 +144,8 @@ sections:
     colors: colors-a
     title: Contact me
     text: >
-      If you've got a project or want to talk about something please get in
-      touch. I look forward to hearing from you.
+      Let’s work together on something great. Complete the form or send me an
+      email at <hello@sneakyoctopus.co>. I look forward to hearing from you.
     form:
       type: FormBlock
       elementId: contact-form
